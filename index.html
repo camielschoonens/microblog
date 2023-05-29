@@ -22,12 +22,113 @@
 
 	
 	
+	  <div class="h-entry">
+		
+
+		<a href="https://blog.camiel.co/2023/05/23/finished-reading-killing.html" class="u-url"><time class="dt-published" datetime="2023-05-23 22:37:41 &#43;0200">May 23, 2023</time></a>
+
+		<div class="e-content">
+			 <p>Finished reading: <a href="https://micro.blog/books/9781787303782">Killing Moon</a> by Jo Nesbø 📚</p>
+<p>I enjoyed reading the newest thriller in the ‘Harry Hole’ series a lot. Maybe this is even the best book until date with a great plot twist and a more or less open end for future books on the last page.</p>
+<p>Next to the amazing thriller storytelling that Nesbø does, I like the music references that are being made throughout the different books, including this one with references to Nirvana and Fleetwood Mac amongst others.</p>
+<p>If you liked the previous books on Hole then for sure read this one too. If you haven’t read the previous books then don’t start with this one as there are far too many references and characters in here that you won’t understand.</p>
+<p>For reference, this is the full series (13 books till date) in order:</p>
+<!-- raw HTML omitted -->
+<p>Up next on my reading list: <a href="https://micro.blog/books/9789024597130">The newest novel in the &lsquo;Munch &amp; Krüger&rsquo; series</a> by Samuel Björk to be released next week on May 30th in the Netherlands.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://blog.camiel.co/2023/05/21/my-home-assistant.html">My Home Assistant Dashboard - May 2023</a></h1>
+		
+
+		<a href="https://blog.camiel.co/2023/05/21/my-home-assistant.html" class="u-url"><time class="dt-published" datetime="2023-05-21 14:59:29 &#43;0200">May 21, 2023</time></a>
+
+		<div class="e-content">
+			 <p>This is my latest iteration of my Home Assistant Dashboard.</p>
+<!-- raw HTML omitted -->
+<p>The dashboard is arranged in three columns and I view it on my MacBook through a custom <!-- raw HTML omitted -->WebCatalog app<!-- raw HTML omitted -->. I&rsquo;m using WebCatalog over the default <!-- raw HTML omitted -->Home Assistant Mac app<!-- raw HTML omitted --> as a presonal prefference, you could achieve the same resized view in the Home Assistant app too I guess.</p>
+<p>The different cards on the dashboard are aligned in three columns, I use the &lsquo;vertical-stack&rsquo; card for this. Within the &lsquo;vertical-stack&rsquo; I use &lsquo;horizontal-stack&rsquo; to align the buttons on the first row. All other cards are using the maximum space available within the vertical stack-card.</p>
+<p>Now let’s go over the three columns from left to right and from top to bottom:</p>
+<p>Column 1</p>
+<!-- raw HTML omitted -->
+<p>Column 2</p>
+<!-- raw HTML omitted -->
+<p>Column 3</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://blog.camiel.co/2023/05/21/converting-w-to.html">Converting W to kWh in Home Assistant</a></h1>
+		
+
+		<a href="https://blog.camiel.co/2023/05/21/converting-w-to.html" class="u-url"><time class="dt-published" datetime="2023-05-21 13:59:00 &#43;0200">May 21, 2023</time></a>
+
+		<div class="e-content">
+			 <p>I&rsquo;ve been measuring my solar panel production in <!-- raw HTML omitted -->Home Assistant<!-- raw HTML omitted --> ever since the panels were installed and I really like the insights that this has been giving me on a daily basis.</p>
+<p>Home Assistant has a really nice build-in energy dashboard in which I was able to capture the total produced power of all my solar panels combined by default. This in itself already gave good insights on the daily production but I wanted to refine the insights a bit more as I have two groups of solar panels, one group facing east, one group facing west. You can imagine that depending on the day and season the production on the east and west side of the house differs.</p>
+<p>When going through the Home Assistant sensors that my inverter &lsquo;<!-- raw HTML omitted -->SMA Solar<!-- raw HTML omitted -->&rsquo; provides I noticed that there are actually Watt (W) sensors available for each of the panel groups. These sensors just weren&rsquo;t showing up as source data for the energy dashboard.</p>
+<p>After some reading on the internet I figured out that the reason that I can&rsquo;t add these sensors to the default energy dashboard is because it expects kilowatt (kWh) sensors. Once you know this it&rsquo;s relatively easy to convert W to kWh with the <!-- raw HTML omitted -->Riemann sum integral integration<!-- raw HTML omitted --> in Home Assistant with the code below.</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p>All you need to do is add the above code (adjusted to your personal source sensor naming) in your configuration.yaml. You will need one platform integration per source sensor. After saving your yaml file and rebooting Home Assistant you can add the new sensors (sensor.energy_produced_east_panels and sensor.energy_produced_west_panels) to your Energy Dashboard resulting in the solar production view below.</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://blog.camiel.co/2023/05/20/mac-os-x.html">Mac OS X Rancho Cucamonga — Basic Apple Guy</a></h1>
+		
+
+		<a href="https://blog.camiel.co/2023/05/20/mac-os-x.html" class="u-url"><time class="dt-published" datetime="2023-05-20 22:08:23 &#43;0200">May 20, 2023</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://blog.camiel.co/2023/05/20/adding-a-first.html" class="u-url"><time class="dt-published" datetime="2023-05-20 21:08:13 &#43;0200">May 20, 2023</time></a>
+
+		<div class="e-content">
+			 <p>Adding a first post here to get this blog started.</p>
+<p>I will soon be posting about stuff that I like and find worth sharing.</p>
+
+		</div>
+	  </div>
+	
 
 </div>
 
 
     
     
+<script>
+  var _paq = window._paq = window._paq || [];
+   
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//stats.schoonens.nl/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '4']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
 
   </body>
 

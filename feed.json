@@ -7,12 +7,57 @@
 	"items": [
 		
 			{
-				"id": "http://camielschoonens.micro.blog/2023/06/21/showyourstripes.html",
-				"title": "ShowYourStripes",
+				"id": "http://camielschoonens.micro.blog/2023/06/26/enjoying-the-beauty.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Enjoying the beauty of nature and the long summer days with my colleagues in Sweden. It&rsquo;s amazing that you can find this sort spaces so close to the city of Stockholm.</p>\n",
+				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://camiel.co/uploads/2023/230626-0c2a0210.jpg\" alt=\"230626 0C2A0210\" title=\"230626_0C2A0210.jpg\" border=\"0\" width=\"1620\" height=\"1080\" />\n\nEnjoying the beauty of nature and the long summer days with my colleagues in Sweden. It's amazing that you can find this sort spaces so close to the city of Stockholm.\n",
+				"date_published": "2023-06-26T22:19:30+02:00",
+				"url": "https://camiel.co/2023/06/26/enjoying-the-beauty.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/06/26/elton-john-playing.html",
+				
+				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=GwqJX3ZjRrs\">Elton John playing Rocket Man at Glastonbury</a> 🔗</p>\n<p>This is one of those performances that people will refer to in 30-40 years from now. My bet is that we will look back on this performance similar to <a href=\"https://youtu.be/PLIAp5nr0q0\">Queen at Wembley Stadium for Live Aid</a>.</p>\n",
+				"content_text": "[Elton John playing Rocket Man at Glastonbury](https://www.youtube.com/watch?v=GwqJX3ZjRrs) 🔗\n\nThis is one of those performances that people will refer to in 30-40 years from now. My bet is that we will look back on this performance similar to [Queen at Wembley Stadium for Live Aid](https://youtu.be/PLIAp5nr0q0).\n",
+				"date_published": "2023-06-26T08:52:38+02:00",
+				"url": "https://camiel.co/2023/06/26/elton-john-playing.html",
+				"tags": ["Linked"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/06/26/amsterdam-stockholm.html",
+				
+				"content_html": "<p>🛫 Amsterdam - Stockholm 🛬</p>\n",
+				"content_text": "🛫 Amsterdam - Stockholm 🛬\n",
+				"date_published": "2023-06-26T08:25:24+02:00",
+				"url": "https://camiel.co/2023/06/26/amsterdam-stockholm.html"
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/06/24/one-of-my.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>One of my favorite spots in nature, only 500 meters away from my house.</p>\n",
+				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://camiel.co/uploads/2023/230624-0c2a0065.jpg\" alt=\"230624 0C2A0065\" title=\"230624_0C2A0065.jpg\" border=\"0\" width=\"1620\" height=\"1080\" />\n\nOne of my favorite spots in nature, only 500 meters away from my house.\n",
+				"date_published": "2023-06-24T19:20:58+02:00",
+				"url": "https://camiel.co/2023/06/24/one-of-my.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/06/21/canadian-gp-lollipopman.html",
+				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p><a href=\"https://showyourstripes.info/l/europe/netherlands/all\">#ShowYourStripes</a> 🔗</p>\n\n<blockquote>These ‘warming stripe’ graphics are visual representations of the change in temperature as measured in each country, region or city over the past 100+ years. Each stripe or bar represents the temperature in that country, region or city averaged over a year. The stripes typically start around the year 1900 and finish in 2022, but for many countries, regions and cities the stripes start in the 19th century or sometimes even the 18th century.</blockquote>\n\n<p>It's worth checking the temperature rises in the past century in different parts of the world, be it countries or continents. Also compare the difference to countries in the northern [(Netherlands)](https://showyourstripes.info/l/europe/netherlands/all) or southern part of the world with those close to the equater.[(Kenya)](https://showyourstripes.info/l/africa/kenya/all).</p>\n",
+				"content_text": "<p><a href=\"https://www.youtube.com/watch?v=LZxhPyrqzrc\">Canadian GP 2023 - Lollipopman</a> 🔗</p>\n\n<blockquote>Absolutely brilliant! There is so much in this one, it’s difficult to choose highlights. Carlos calling strategy and Ferrari listening and getting it right, George’s spatial awareness and leg in a cast, Esteban’s trousers, pit lane drama…so much greatness in one video!</blockquote>\n\n<p>I think this is the best Lollipopman for season 2023 thusfar.</p>\n",
+				"date_published": "2023-06-21T21:38:19+02:00",
+				"url": "https://camiel.co/2023/06/21/canadian-gp-lollipopman.html",
+				"tags": ["Linked"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/06/21/showyourstripes.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://showyourstripes.info/l/europe/netherlands/all\">#ShowYourStripes</a> 🔗</p>\n\n<blockquote>These ‘warming stripe’ graphics are visual representations of the change in temperature as measured in each country, region or city over the past 100+ years. Each stripe or bar represents the temperature in that country, region or city averaged over a year. The stripes typically start around the year 1900 and finish in 2022, but for many countries, regions and cities the stripes start in the 19th century or sometimes even the 18th century.</blockquote>\n",
 				"date_published": "2023-06-21T21:35:14+02:00",
-				"url": "https://camiel.co/2023/06/21/showyourstripes.html"
+				"url": "https://camiel.co/2023/06/21/showyourstripes.html",
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://camielschoonens.micro.blog/2023/06/17/awesome-qualifying-ongoing.html",
@@ -197,7 +242,7 @@
 				"content_text": "<p><a href=\"https://basicappleguy.com/basicappleblog/os-x-rancho-cucamonga\">Mac OS X Rancho Cucamonga — Basic Apple Guy</a> 🔗</p>\n\n<blockquote>A wallpaper based on a joke that got taken way too far. To get everyone up to speed, at WWDC14, in the early days of the transition from OS's named after big cats (Lion, Jaguar, Tiger, Leopard, etc.) to places in California, Craig Federighi joked about Apple's \"Crack Marketing Team\" driving around California in search of the next name for OS X. Before unveiling OS X Yosemite; Apple teased about considering OS X Oxnard, OS X Weed, and yes, OS X Rancho Cucamonga.</blockquote>\n<p>Yet again a stunning wallpaper for all your Apple devices from <a href=\"https://basicappleguy.com/\">Basic Apple Guy</a>. I'm still using the <a href=\"https://basicappleguy.com/basicappleblog/saltern-study\">Salturn Study 03</a> wallpaper on my iPhone, iPad and MacBook, but I guess I will be switching to these soon.</p>\n",
 				"date_published": "2023-05-20T22:08:23+02:00",
 				"url": "https://camiel.co/2023/05/20/mac-os-x.html",
-				"tags": ["Apple"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://camielschoonens.micro.blog/2023/05/20/adding-a-first.html",

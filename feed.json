@@ -7,10 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://camielschoonens.micro.blog/2023/07/01/i-just-love.html",
+				
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>I just love the nature and long summer days in Sweden 💚</p>\n",
+				"content_text": "<a href=\"https://camiel.co/uploads/2023/230626-0c2a0214.jpg\" class=\"glightbox\"><img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://camiel.co/uploads/2023/230626-0c2a0214.jpg\" alt=\"230626 0C2A0214\" title=\"230626_0C2A0214.jpg\" border=\"0\" width=\"1080\" height=\"1620\" /></a>\n\nI just love the nature and long summer days in Sweden 💚\n",
+				"date_published": "2023-07-01T09:00:15+02:00",
+				"url": "https://camiel.co/2023/07/01/i-just-love.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/06/28/i-had-a.html",
+				
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>I had a beautifull and clear sky view on the city of Stockholm while <a href=\"https://camiel.co/2023/06/27/stockholm-amsterdam-going.html\">flying back home yesterday</a>. I&rsquo;ve been on this flight many times before. It&rsquo;s not often that you get this view as most flights to Amsterdam head west from the airport immediately.</p>\n",
+				"content_text": "<a href=\"https://camiel.co/uploads/2023/230627-img-3465.jpg\" class=\"glightbox\"><img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://camiel.co/uploads/2023/230627-img-3465.jpg\" border=\"0\" width=\"1080\" height=\"1620\" /></a>\n\nI had a beautifull and clear sky view on the city of Stockholm while [flying back home yesterday](https://camiel.co/2023/06/27/stockholm-amsterdam-going.html). I've been on this flight many times before. It's not often that you get this view as most flights to Amsterdam head west from the airport immediately.\n",
+				"date_published": "2023-06-28T15:49:59+02:00",
+				"url": "https://camiel.co/2023/06/28/i-had-a.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/06/28/how-to-kill.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://ploum.net/2023-06-23-how-to-kill-decentralised-networks.html\">How to Kill a Decentralised Network (such as the Fediverse)</a> 🔗</p>\n\n<blockquote>People who don’t know history are doomed to repeat it. Which is exactly what is happening with Meta and the Fediverse.</blockquote>\n\n<p>My initial thinking on Meta adopting the Fediverse and the ActivityPub protocol was quite positive. My reasoning: The more tech companies that adopt the protocol the more useful it becomes. This is the first article that I've seen that the properly describes why the adoption by Meta can also become a large issue for the Fediverse and the ActivityPub protocol itself.</p>\n",
+				"date_published": "2023-06-28T08:41:38+02:00",
+				"url": "https://camiel.co/2023/06/28/how-to-kill.html",
+				"tags": ["Linked"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/06/27/mental-note-on.html",
+				
+				"content_html": "<p>Mental note on how I would want to be remembered by my colleagues and friends.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Mental note on how I would want to be remembered by my colleagues and friends.\n\n<blockquote>Kindness is not just a feeling; it's an action. Let's actively practice kindness every day. Smile at strangers, lend a helping hand, or offer words of encouragement. Small acts of kindness have the power to create a ripple effect of positivity. Be kind, and make a difference.</blockquote>\n",
+				"date_published": "2023-06-27T20:15:01+02:00",
+				"url": "https://camiel.co/2023/06/27/mental-note-on.html",
+				"tags": ["Leadership"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/06/27/stockholm-amsterdam-going.html",
+				
+				"content_html": "<p>🛫 Stockholm - Amsterdam 🛬</p>\n<p>Going back home after two days with my team in Stockholm. This was the last trip to the Nordics before my summer holidays. Really enjoyed the <a href=\"https://camiel.co/2023/06/26/enjoying-the-beauty.html\">good weather and good company</a> in Sweden outside of the work topics that we had to deal with.</p>\n",
+				"content_text": "🛫 Stockholm - Amsterdam 🛬\n\nGoing back home after two days with my team in Stockholm. This was the last trip to the Nordics before my summer holidays. Really enjoyed the [good weather and good company](https://camiel.co/2023/06/26/enjoying-the-beauty.html) in Sweden outside of the work topics that we had to deal with.\n",
+				"date_published": "2023-06-27T19:48:48+02:00",
+				"url": "https://camiel.co/2023/06/27/stockholm-amsterdam-going.html"
+			},
+			{
 				"id": "http://camielschoonens.micro.blog/2023/06/26/enjoying-the-beauty.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n<p>Enjoying the beauty of nature and the long summer days with my colleagues in Sweden. It&rsquo;s amazing that you can find this sort spaces so close to the city of Stockholm.</p>\n",
-				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://camiel.co/uploads/2023/230626-0c2a0210.jpg\" alt=\"230626 0C2A0210\" title=\"230626_0C2A0210.jpg\" border=\"0\" width=\"1620\" height=\"1080\" />\n\nEnjoying the beauty of nature and the long summer days with my colleagues in Sweden. It's amazing that you can find this sort spaces so close to the city of Stockholm.\n",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Enjoying the beauty of nature and the long summer days with my colleagues in Sweden. It&rsquo;s amazing that you can find this sort of space so close to the city of Stockholm.</p>\n",
+				"content_text": "<a href=\"https://camiel.co/uploads/2023/230626-0c2a0210.jpg\" class=\"glightbox\"><img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://camiel.co/uploads/2023/230626-0c2a0210.jpg\" border=\"0\" width=\"1080\" height=\"1620\" /></a>\n\nEnjoying the beauty of nature and the long summer days with my colleagues in Sweden. It's amazing that you can find this sort of space so close to the city of Stockholm.\n",
 				"date_published": "2023-06-26T22:19:30+02:00",
 				"url": "https://camiel.co/2023/06/26/enjoying-the-beauty.html",
 				"tags": ["Photography"]
@@ -35,8 +79,8 @@
 			{
 				"id": "http://camielschoonens.micro.blog/2023/06/24/one-of-my.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n<p>One of my favorite spots in nature, only 500 meters away from my house.</p>\n",
-				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://camiel.co/uploads/2023/230624-0c2a0065.jpg\" alt=\"230624 0C2A0065\" title=\"230624_0C2A0065.jpg\" border=\"0\" width=\"1620\" height=\"1080\" />\n\nOne of my favorite spots in nature, only 500 meters away from my house.\n",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>One of my favourite spots in nature, only 500 meters away from my house.</p>\n",
+				"content_text": "<a href=\"https://camiel.co/uploads/2023/230624-0c2a0065.jpg\" class=\"glightbox\"><img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://camiel.co/uploads/2023/230624-0c2a0065.jpg\" border=\"0\" width=\"1080\" height=\"1620\" /></a>\n\nOne of my favourite spots in nature, only 500 meters away from my house.\n",
 				"date_published": "2023-06-24T19:20:58+02:00",
 				"url": "https://camiel.co/2023/06/24/one-of-my.html",
 				"tags": ["Photography"]
@@ -70,8 +114,8 @@
 			{
 				"id": "http://camielschoonens.micro.blog/2023/06/17/the-roses-in.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n<p>The roses in the garden are beautiful this year.</p>\n",
-				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://camiel.co/uploads/2023/230617-0c2a9925.jpg\" alt=\"230617 0C2A9925\" title=\"230617_0C2A9925.jpg\" border=\"0\" width=\"1620\" height=\"1080\" />\n\nThe roses in the garden are beautiful this year.\n",
+				"content_html": "<a href=\"https://camiel.co/uploads/2023/230617-0c2a9925.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"be021a59f0bf2fd1241ea2623aa88080\"\n   \n   \n>\n<img src = \"https://camiel.co/uploads/2023/230617-0c2a9925.jpg\" style=\"border-radius: 5px; max-width: 100%\"\n     \n        alt=\"Close up of several pink roses\" \n     \n      />\n</a>\n\n<p>The roses in the garden are beautiful this year.</p>\n",
+				"content_text": "{{< glightbox src=\"https://camiel.co/uploads/2023/230617-0c2a9925.jpg\" alt=\"Close up of several pink roses\" >}}\n\nThe roses in the garden are beautiful this year.\n",
 				"date_published": "2023-06-17T21:40:11+02:00",
 				"url": "https://camiel.co/2023/06/17/the-roses-in.html",
 				"tags": ["Photography"]
@@ -96,8 +140,8 @@
 			{
 				"id": "http://camielschoonens.micro.blog/2023/06/11/im-proud-of.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n<p>I&rsquo;m proud of my 15 year old son who saved enough money to buy himself his first little motorboat today. He is fortunate enough to live next to open water here in the Netherlands, so the boat is &lsquo;parked&rsquo; in front of the house and will be used a lot this summer by him and his friends.</p>\n",
-				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://camiel.co/uploads/2023/a650b6fb67.jpg\" alt=\"230611 IMG 3407\" title=\"230611_IMG_3407.jpg\" border=\"0\" width=\"1215\" height=\"1620\" />\n\nI'm proud of my 15 year old son who saved enough money to buy himself his first little motorboat today. He is fortunate enough to live next to open water here in the Netherlands, so the boat is 'parked' in front of the house and will be used a lot this summer by him and his friends.\n",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>I&rsquo;m proud of my 15 year old son who saved enough money to buy himself his first little motorboat today. He is fortunate enough to live next to open water here in the Netherlands, so the boat is &lsquo;parked&rsquo; in front of the house and will be used a lot this summer by him and his friends.</p>\n",
+				"content_text": "<a href=\"https://camiel.co/uploads/2023/a650b6fb67.jpg\" class=\"glightbox\"><img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://camiel.co/uploads/2023/a650b6fb67.jpg\" border=\"0\" width=\"1080\" height=\"1620\" /></a>\n\nI'm proud of my 15 year old son who saved enough money to buy himself his first little motorboat today. He is fortunate enough to live next to open water here in the Netherlands, so the boat is 'parked' in front of the house and will be used a lot this summer by him and his friends.\n",
 				"date_published": "2023-06-11T20:26:29+02:00",
 				"url": "https://camiel.co/2023/06/11/im-proud-of.html",
 				"tags": ["Photography"]
@@ -113,8 +157,8 @@
 			{
 				"id": "http://camielschoonens.micro.blog/2023/06/07/a-great-view.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n<p>A great view from the water in Amsterdam taken last night just before sunset. It seems we are finally getting into Spring here in the Netherlands.</p>\n<p>I was in Amsterdam for a lovely diner with former colleagues at &lsquo;<a href=\"https://www.gebr-hartering.nl\">Restaurant Gebr. Hartering</a>&rsquo;. I can highly recommend the place.</p>\n",
-				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://camiel.co/uploads/2023/72b6d7584a.jpg\" alt=\"230606 IMG 3377\" title=\"230606_IMG_3377.jpg\" border=\"0\" width=\"1620\" height=\"1080\" />\n\nA great view from the water in Amsterdam taken last night just before sunset. It seems we are finally getting into Spring here in the Netherlands. \n\nI was in Amsterdam for a lovely diner with former colleagues at '[Restaurant Gebr. Hartering](https://www.gebr-hartering.nl)'. I can highly recommend the place.\n",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>A great view from the water in Amsterdam taken last night just before sunset. It seems we are finally getting into Spring here in the Netherlands.</p>\n<p>I was in Amsterdam for a lovely diner with former colleagues at &lsquo;<a href=\"https://www.gebr-hartering.nl\">Restaurant Gebr. Hartering</a>&rsquo;. I can highly recommend the place.</p>\n",
+				"content_text": "<a href=\"https://camiel.co/uploads/2023/72b6d7584a.jpg\" class=\"glightbox\"><img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://camiel.co/uploads/2023/72b6d7584a.jpg\" border=\"0\" width=\"1080\" height=\"1620\" /></a>\n\nA great view from the water in Amsterdam taken last night just before sunset. It seems we are finally getting into Spring here in the Netherlands. \n\nI was in Amsterdam for a lovely diner with former colleagues at '[Restaurant Gebr. Hartering](https://www.gebr-hartering.nl)'. I can highly recommend the place.\n",
 				"date_published": "2023-06-07T08:17:15+02:00",
 				"url": "https://camiel.co/2023/06/07/a-great-view.html",
 				"tags": ["Photography"]
@@ -155,18 +199,20 @@
 			{
 				"id": "http://camielschoonens.micro.blog/2023/06/04/had-a-lovely.html",
 				
-				"content_html": "<p>Had a lovely day on the water this morning watching a sailing race while we were sailing ourselves.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Had a lovely day on the water this morning watching a sailing race while we were sailing ourselves.\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://camiel.co/uploads/2023/6df0ea47f6.jpg\" alt=\"230604 0C2A9919\" title=\"230604_0C2A9919.jpg\" border=\"0\" width=\"1620\" height=\"1080\" />\n",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Had a lovely day on the water this morning watching a sailing race while we were sailing ourselves.</p>\n",
+				"content_text": "<a href=\"https://camiel.co/uploads/2023/6df0ea47f6.jpg\" class=\"glightbox\"><img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://camiel.co/uploads/2023/6df0ea47f6.jpg\" border=\"0\" width=\"1080\" height=\"1620\" /></a>\n\nHad a lovely day on the water this morning watching a sailing race while we were sailing ourselves.\n",
 				"date_published": "2023-06-04T16:50:53+02:00",
-				"url": "https://camiel.co/2023/06/04/had-a-lovely.html"
+				"url": "https://camiel.co/2023/06/04/had-a-lovely.html",
+				"tags": ["Photography"]
 			},
 			{
 				"id": "http://camielschoonens.micro.blog/2023/06/01/one-of-the.html",
 				"title": "Paris",
-				"content_html": "<!-- raw HTML omitted -->\n<p>One of the nice things of living on the European continent; Everything is relatively close by.</p>\n<p>I woke up this morning at 06:15 in my own bed in the Netherlands, travelled by high speed train through 3 countries, arrived in Paris at 11:00 for two days of work and enjoyed a nice diner and a city walk this evening with a friend who happens to be here too.</p>\n",
-				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://camiel.co/uploads/2023/88aa86cc82.jpg\" alt=\"230601 IMG 3361\" title=\"230601_IMG_3361.jpg\" border=\"0\" width=\"1620\" height=\"1080\" />\n\nOne of the nice things of living on the European continent; Everything is relatively close by. \n\nI woke up this morning at 06:15 in my own bed in the Netherlands, travelled by high speed train through 3 countries, arrived in Paris at 11:00 for two days of work and enjoyed a nice diner and a city walk this evening with a friend who happens to be here too.\n",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>One of the nice things of living on the European continent; Everything is relatively close by.</p>\n<p>I woke up this morning at 06:15 in my own bed in the Netherlands, travelled by high speed train through 3 countries, arrived in Paris at 11:00 for two days of work and enjoyed a nice diner and a city walk this evening with a friend who happens to be here too.</p>\n",
+				"content_text": "<a href=\"https://camiel.co/uploads/2023/88aa86cc82.jpg\" class=\"glightbox\"><img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://camiel.co/uploads/2023/88aa86cc82.jpg\" border=\"0\" width=\"1080\" height=\"1620\" /></a>\n\nOne of the nice things of living on the European continent; Everything is relatively close by. \n\nI woke up this morning at 06:15 in my own bed in the Netherlands, travelled by high speed train through 3 countries, arrived in Paris at 11:00 for two days of work and enjoyed a nice diner and a city walk this evening with a friend who happens to be here too.\n",
 				"date_published": "2023-06-01T23:21:56+02:00",
-				"url": "https://camiel.co/2023/06/01/one-of-the.html"
+				"url": "https://camiel.co/2023/06/01/one-of-the.html",
+				"tags": ["Photography"]
 			},
 			{
 				"id": "http://camielschoonens.micro.blog/2023/05/31/im-contemplating-on.html",
@@ -203,8 +249,8 @@
 			{
 				"id": "http://camielschoonens.micro.blog/2023/05/29/i-had-some.html",
 				
-				"content_html": "<p>I had some fun this afternoon with my new Canon RF 85mm f/2 Macro lens photographing bumblebees in the garden.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I had some fun this afternoon with my new Canon RF 85mm f/2 Macro lens photographing bumblebees in the garden.\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://cdn.uploads.micro.blog/109793/2023/b57f5532d5.jpg\" alt=\"230529 0C2A9573\" title=\"230529_0C2A9573.jpg\" border=\"0\" width=\"1620\" height=\"1080\" />\n",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>I had some fun this afternoon with my new Canon RF 85mm f/2 Macro lens photographing bumblebees in the garden.</p>\n",
+				"content_text": "<a href=\"https://camiel.co/uploads/2023/b57f5532d5.jpg\" class=\"glightbox\"><img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://camiel.co/uploads/2023/b57f5532d5.jpg\" border=\"0\" width=\"1080\" height=\"1620\" /></a>\n\nI had some fun this afternoon with my new Canon RF 85mm f/2 Macro lens photographing bumblebees in the garden.\n",
 				"date_published": "2023-05-29T16:01:01+02:00",
 				"url": "https://camiel.co/2023/05/29/i-had-some.html",
 				"tags": ["Photography"]
@@ -230,7 +276,7 @@
 				"id": "http://camielschoonens.micro.blog/2023/05/21/converting-w-to.html",
 				"title": "Converting W to kWh in Home Assistant",
 				"content_html": "<p>I&rsquo;ve been measuring my solar panel production in <!-- raw HTML omitted -->Home Assistant<!-- raw HTML omitted --> ever since the panels were installed and I really like the insights that this has been giving me on a daily basis.</p>\n<p>Home Assistant has a really nice build-in energy dashboard in which I was able to capture the total produced power of all my solar panels combined by default. This in itself already gave good insights on the daily production but I wanted to refine the insights a bit more as I have two groups of solar panels, one group facing east, one group facing west. You can imagine that depending on the day and season the production on the east and west side of the house differs.</p>\n<p>When going through the Home Assistant sensors that my inverter &lsquo;<!-- raw HTML omitted -->SMA Solar<!-- raw HTML omitted -->&rsquo; provides I noticed that there are actually Watt (W) sensors available for each of the panel groups. These sensors just weren&rsquo;t showing up as source data for the energy dashboard.</p>\n<p>After some reading on the internet I figured out that the reason that I can&rsquo;t add these sensors to the default energy dashboard is because it expects kilowatt (kWh) sensors. Once you know this it&rsquo;s relatively easy to convert W to kWh with the <!-- raw HTML omitted -->Riemann sum integral integration<!-- raw HTML omitted --> in Home Assistant with the code below.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p>All you need to do is add the above code (adjusted to your personal source sensor naming) in your configuration.yaml. You will need one platform integration per source sensor. After saving your yaml file and rebooting Home Assistant you can add the new sensors (sensor.energy_produced_east_panels and sensor.energy_produced_west_panels) to your Energy Dashboard resulting in the solar production view below.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I've been measuring my solar panel production in <a href=\"https://www.home-assistant.io/\">Home Assistant</a> ever since the panels were installed and I really like the insights that this has been giving me on a daily basis. \n\nHome Assistant has a really nice build-in energy dashboard in which I was able to capture the total produced power of all my solar panels combined by default. This in itself already gave good insights on the daily production but I wanted to refine the insights a bit more as I have two groups of solar panels, one group facing east, one group facing west. You can imagine that depending on the day and season the production on the east and west side of the house differs.\n\nWhen going through the Home Assistant sensors that my inverter '<a href=\"https://www.home-assistant.io/integrations/sma/\">SMA Solar</a>' provides I noticed that there are actually Watt (W) sensors available for each of the panel groups. These sensors just weren't showing up as source data for the energy dashboard.\n\nAfter some reading on the internet I figured out that the reason that I can't add these sensors to the default energy dashboard is because it expects kilowatt (kWh) sensors. Once you know this it's relatively easy to convert W to kWh with the <a href=\"https://www.home-assistant.io/integrations/integration/\">Riemann sum integral integration</a> in Home Assistant with the code below.\n\n<pre>- platform: integration\n  # Change the below source sensor\n  source: sensor.stp6_0_3av_40_341_pv_power_a\n  # Change the new sensor name below\n  name: energy_produced_east_panels\n  unit_prefix: k\n  round: 2\n- platform: integration\n  # Change the below source sensor  \n  source: sensor.stp6_0_3av_40_341_pv_power_b\n  # Change the new sensor name below\n  name: energy_produced_west_panels\n  unit_prefix: k\n  round: 2</pre>\n\nAll you need to do is add the above code (adjusted to your personal source sensor naming) in your configuration.yaml. You will need one platform integration per source sensor. After saving your yaml file and rebooting Home Assistant you can add the new sensors (sensor.energy_produced_east_panels and sensor.energy_produced_west_panels) to your Energy Dashboard resulting in the solar production view below.\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://cdn.uploads.micro.blog/109793/2023/cc91a56259.png\" alt=\"Home Assistant Solar Production Insights\" title=\"Home-Assistant-Solar-Production.png\" border=\"0\" width=\"2176\" height=\"972\" />\n",
+				"content_text": "I've been measuring my solar panel production in <a href=\"https://www.home-assistant.io/\">Home Assistant</a> ever since the panels were installed and I really like the insights that this has been giving me on a daily basis. \n\nHome Assistant has a really nice build-in energy dashboard in which I was able to capture the total produced power of all my solar panels combined by default. This in itself already gave good insights on the daily production but I wanted to refine the insights a bit more as I have two groups of solar panels, one group facing east, one group facing west. You can imagine that depending on the day and season the production on the east and west side of the house differs.\n\nWhen going through the Home Assistant sensors that my inverter '<a href=\"https://www.home-assistant.io/integrations/sma/\">SMA Solar</a>' provides I noticed that there are actually Watt (W) sensors available for each of the panel groups. These sensors just weren't showing up as source data for the energy dashboard.\n\nAfter some reading on the internet I figured out that the reason that I can't add these sensors to the default energy dashboard is because it expects kilowatt (kWh) sensors. Once you know this it's relatively easy to convert W to kWh with the <a href=\"https://www.home-assistant.io/integrations/integration/\">Riemann sum integral integration</a> in Home Assistant with the code below.\n\n<pre>- platform: integration\n  # Change the below source sensor\n  source: sensor.stp6_0_3av_40_341_pv_power_a\n  # Change the new sensor name below\n  name: energy_produced_east_panels\n  unit_prefix: k\n  round: 2\n- platform: integration\n  # Change the below source sensor  \n  source: sensor.stp6_0_3av_40_341_pv_power_b\n  # Change the new sensor name below\n  name: energy_produced_west_panels\n  unit_prefix: k\n  round: 2</pre>\n\nAll you need to do is add the above code (adjusted to your personal source sensor naming) in your configuration.yaml. You will need one platform integration per source sensor. After saving your yaml file and rebooting Home Assistant you can add the new sensors (sensor.energy_produced_east_panels and sensor.energy_produced_west_panels) to your Energy Dashboard resulting in the solar production view below.\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://camiel.co/uploads/2023/cc91a56259.png\" alt=\"Home Assistant Solar Production Insights\" title=\"Home-Assistant-Solar-Production.png\" border=\"0\" width=\"2176\" height=\"972\" />\n",
 				"date_published": "2023-05-21T13:59:00+02:00",
 				"url": "https://camiel.co/2023/05/21/converting-w-to.html",
 				"tags": ["Side Projects"]

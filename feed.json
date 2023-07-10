@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://camielschoonens.micro.blog/2023/07/10/finished-reading-de.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789024597130\">De terugkeer van Mia</a> by Samuel Bjork 📚</p>\n",
+				"content_text": "Finished reading: [De terugkeer van Mia](https://micro.blog/books/9789024597130) by Samuel Bjork 📚\n",
+				"date_published": "2023-07-10T14:23:55+02:00",
+				"url": "https://camiel.co/2023/07/10/finished-reading-de.html"
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/07/02/im-still-in.html",
+				
+				"content_html": "<p>I&rsquo;m still in the process of moving as many of the services that I use on the internet today to self-hosted versions. This evening I worked on moving away from Feedly to <a href=\"https://www.freshrss.org\">FreshRSS</a> which I&rsquo;m now running in a docker on my NAS.</p>\n<p>It was a cool little nerd project to work on.</p>\n",
+				"content_text": "I'm still in the process of moving as many of the services that I use on the internet today to self-hosted versions. This evening I worked on moving away from Feedly to [FreshRSS](https://www.freshrss.org) which I'm now running in a docker on my NAS.\n\nIt was a cool little nerd project to work on.\n",
+				"date_published": "2023-07-02T20:15:37+02:00",
+				"url": "https://camiel.co/2023/07/02/im-still-in.html",
+				"tags": ["Side Projects"]
+			},
+			{
 				"id": "http://camielschoonens.micro.blog/2023/07/01/i-just-love.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>I just love the nature and long summer days in Sweden 💚</p>\n",
@@ -114,8 +131,8 @@
 			{
 				"id": "http://camielschoonens.micro.blog/2023/06/17/the-roses-in.html",
 				
-				"content_html": "<a href=\"https://camiel.co/uploads/2023/230617-0c2a9925.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"be021a59f0bf2fd1241ea2623aa88080\"\n   \n   \n>\n<img src = \"https://camiel.co/uploads/2023/230617-0c2a9925.jpg\" style=\"border-radius: 5px; max-width: 100%\"\n     \n        alt=\"Close up of several pink roses\" \n     \n      />\n</a>\n\n<p>The roses in the garden are beautiful this year.</p>\n",
-				"content_text": "{{< glightbox src=\"https://camiel.co/uploads/2023/230617-0c2a9925.jpg\" alt=\"Close up of several pink roses\" >}}\n\nThe roses in the garden are beautiful this year.\n",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>The roses in the garden are beautiful this year.</p>\n",
+				"content_text": "<a href=\"https://camiel.co/uploads/2023/230617-0c2a9925.jpg\" class=\"glightbox\"><img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://camiel.co/uploads/2023/230617-0c2a9925.jpg\" border=\"0\" width=\"1080\" height=\"1620\" /></a>\n\nThe roses in the garden are beautiful this year.\n",
 				"date_published": "2023-06-17T21:40:11+02:00",
 				"url": "https://camiel.co/2023/06/17/the-roses-in.html",
 				"tags": ["Photography"]

@@ -2,17 +2,34 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Camiel Schoonens",
 	"icon": "https://micro.blog/camielschoonens/avatar.jpg",
-	"home_page_url": "https://camiel.co/",
-	"feed_url": "https://camiel.co/feed.json",
+	"home_page_url": "https://micro.schoonens.blog/",
+	"feed_url": "https://micro.schoonens.blog/feed.json",
 	"items": [
 		
+			{
+				"id": "http://camielschoonens.micro.blog/2023/09/08/181606.html",
+				
+				"content_html": "<a href=\"https://micro.schoonens.blog/uploads/2023/200807-20200807-0c2a6208-pano.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"fe65860e5330cbc313466f64c683e46c\"\n   \n   \n>\n<img src = \"https://micro.schoonens.blog/uploads/2023/200807-20200807-0c2a6208-pano.jpg\" style=\"border-radius: 5px; max-width: 100%\"\n     \n        alt=\"A panoramic view of the Austrian Alps near the boarder of southern Germany.\" \n     \n      />\n</a>\n\n<p>My submission for #mbsept day 8: &lsquo;Yonder&rsquo;.</p>\n",
+				"content_text": "{{< glightbox src=\"https://micro.schoonens.blog/uploads/2023/200807-20200807-0c2a6208-pano.jpg\" alt=\"A panoramic view of the Austrian Alps near the boarder of southern Germany.\" >}}\n\nMy submission for #mbsept day 8: 'Yonder'.\n",
+				"date_published": "2023-09-08T18:16:06+02:00",
+				"url": "https://micro.schoonens.blog/2023/09/08/181606.html"
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/09/06/there-was-a.html",
+				
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<blockquote>\n<p>There was a time not so long ago when computers were not thin, stylish, devices you slip into a pocket or wear on your wrist, but enormous, fabulous machines with flashing lights and spinning fans. <!-- raw HTML omitted --><!-- raw HTML omitted -->These behemoths filled rooms and captured imaginations with their promise of the future. Docubyte’s ongoing series Guide To Computing is a love letter to the technology of yore. His bright, colorful photos bring a graphic look to computers from the 1940s to the 1980s and remind you of just how prescient Gordon Moore was.</p>\n</blockquote>\n<!-- raw HTML omitted -->\n",
+				"content_text": "<video autoplay loop muted src=\"https://docu.b-cdn.net/2021/04/guide-to-computing-telefunken-ra770-animated-rev-d-2688k.mp4\"></video>\n\n>There was a time not so long ago when computers were not thin, stylish, devices you slip into a pocket or wear on your wrist, but enormous, fabulous machines with flashing lights and spinning fans. <br><br>These behemoths filled rooms and captured imaginations with their promise of the future. Docubyte’s ongoing series Guide To Computing is a love letter to the technology of yore. His bright, colorful photos bring a graphic look to computers from the 1940s to the 1980s and remind you of just how prescient Gordon Moore was.\n\n<p>🔗 <a href=\"https://www.docubyte.com/projects/guide-to-computing/\">Guide to Computing</a></p>\n",
+				"date_published": "2023-09-06T09:25:33+02:00",
+				"url": "https://micro.schoonens.blog/2023/09/06/there-was-a.html",
+				"tags": ["Linked"]
+			},
 			{
 				"id": "http://camielschoonens.micro.blog/2023/05/20/adding-a-first.html",
 				
 				"content_html": "<p>Adding a first post here to get this blog started.</p>\n<p>I will soon be posting about stuff that I like and find worth sharing.</p>\n",
 				"content_text": "Adding a first post here to get this blog started. \n\nI will soon be posting about stuff that I like and find worth sharing.\n",
 				"date_published": "2023-05-20T21:08:13+02:00",
-				"url": "https://camiel.co/2023/05/20/adding-a-first.html"
+				"url": "https://micro.schoonens.blog/2023/05/20/adding-a-first.html"
 			}
 	]
 }

@@ -1,18 +1,42 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Camiel Schoonens",
+	"title": "schoonens.social",
 	"icon": "https://micro.blog/camielschoonens/avatar.jpg",
-	"home_page_url": "https://status.schoonens.social/",
-	"feed_url": "https://status.schoonens.social/feed.json",
+	"home_page_url": "https://schoonens.social/",
+	"feed_url": "https://schoonens.social/feed.json",
 	"items": [
 		
+			{
+				"id": "http://camielschoonens.micro.blog/2023/10/13/van-een-iphone.html",
+				
+				"content_html": "<p>Van een iPhone Pro Max terug naar een iPhone Pro. Wat een verademing qua apparaat grote. Dit had ik echt veel eerder moeten doen.</p>\n",
+				"content_text": "Van een iPhone Pro Max terug naar een iPhone Pro. Wat een verademing qua apparaat grote. Dit had ik echt veel eerder moeten doen.\n",
+				"date_published": "2023-10-13T15:56:24+02:00",
+				"url": "https://schoonens.social/2023/10/13/van-een-iphone.html"
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/10/12/het-wordt-drukker.html",
+				
+				"content_html": "<p>Het wordt drukker in mijn Bluesky tijdlijn, leuk.</p>\n<p>Vooralsnog lees ik vooral mee en &lsquo;like&rsquo; ik wat berichten links en rechts. Eerder deze week las ik dat er inmiddels meer dan 1mln gebruikers op Bluesky zitten, ondanks dat het nog steeds &lsquo;invite only&rsquo; is. Best knap gedaan.</p>\n",
+				"content_text": "Het wordt drukker in mijn Bluesky tijdlijn, leuk. \r\n\r\nVooralsnog lees ik vooral mee en 'like' ik wat berichten links en rechts. Eerder deze week las ik dat er inmiddels meer dan 1mln gebruikers op Bluesky zitten, ondanks dat het nog steeds 'invite only' is. Best knap gedaan.\n",
+				"date_published": "2023-10-12T11:30:25+02:00",
+				"url": "https://schoonens.social/2023/10/12/het-wordt-drukker.html"
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/10/09/prachtige-fotos-van.html",
+				
+				"content_html": "<p>Prachtige foto&rsquo;s van <!-- raw HTML omitted -->Steven Geurts<!-- raw HTML omitted -->.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Prachtige foto's van <a href=\"https://mastodon.social/@stevengeurts/111201327255994811\">Steven Geurts</a>.\r\n<blockquote class=\"quoteback\" data-title=\"\" data-author=\"Steven Geurts\" data-avatar=\"https://micro.blog/stevengeurts@mastodon.social/avatar.jpg\" cite=\"https://mastodon.social/@stevengeurts/111201327255994811\"><p>Vogeltrekspektakel vandaag met énorm veel lijstertrek. De hele ochtend grote groepen koperwieken over. Af en toe ook kramsvogels, grote lijsters en zanglijsters ertussendoor.</p><p>Uitstekende dag om in de tuin te zitten. Ook keep, watersnip, rietgors, goudhaan, middelste bonte specht, enkele torenvalken en sperwers en natuurlijk graspieper en vink. Heerlijk!</p><p><img src=\"https://cdn.micro.blog/photos/1000x/https%3A%2F%2Ffiles.mastodon.social%2Fmedia_attachments%2Ffiles%2F111%2F201%2F313%2F832%2F589%2F333%2Foriginal%2F024453b637f01f72.jpg\" alt=\"Mistle thrush - grote lijster\" loading=\"lazy\"></p><p><img src=\"https://cdn.micro.blog/photos/1000x/https%3A%2F%2Ffiles.mastodon.social%2Fmedia_attachments%2Ffiles%2F111%2F201%2F313%2F856%2F565%2F949%2Foriginal%2F2f60d7a9bacd2edc.jpg\" alt=\"Redwing - koperwiek\" loading=\"lazy\"></p><p><img src=\"https://cdn.micro.blog/photos/1000x/https%3A%2F%2Ffiles.mastodon.social%2Fmedia_attachments%2Ffiles%2F111%2F201%2F313%2F852%2F323%2F537%2Foriginal%2Fda96664ec1bc2f66.jpg\" alt=\"Song thrush - zanglijster\" loading=\"lazy\"></p><p><img src=\"https://cdn.micro.blog/photos/1000x/https%3A%2F%2Ffiles.mastodon.social%2Fmedia_attachments%2Ffiles%2F111%2F201%2F313%2F856%2F565%2F950%2Foriginal%2Fd0ca5421d128992a.jpg\" alt=\"Fieldfare - kramsvogel\" loading=\"lazy\"></p><footer>Steven Geurts <cite><a href=\"https://mastodon.social/@stevengeurts/111201327255994811\" class=\"u-in-reply-to\">https://mastodon.social/@stevengeurts/111201327255994811</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2023-10-09T10:29:10+02:00",
+				"url": "https://schoonens.social/2023/10/09/prachtige-fotos-van.html"
+			},
 			{
 				"id": "http://camielschoonens.micro.blog/2023/05/20/adding-a-first.html",
 				
 				"content_html": "<p>Adding a first post here to get this blog started.</p>\n<p>I will soon be posting about stuff that I like and find worth sharing.</p>\n",
 				"content_text": "Adding a first post here to get this blog started. \n\nI will soon be posting about stuff that I like and find worth sharing.\n",
 				"date_published": "2023-05-20T21:08:13+02:00",
-				"url": "https://status.schoonens.social/2023/05/20/adding-a-first.html"
+				"url": "https://schoonens.social/2023/05/20/adding-a-first.html"
 			}
 	]
 }

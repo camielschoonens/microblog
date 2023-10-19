@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://camielschoonens.micro.blog/2023/10/19/een-mooi-stukje.html",
+				
+				"content_html": "<p>Een mooi stukje Parijs, gewoon in Nederland.</p>\n<p>Bistro ‘Le petit chef’ in Rijswijk. Heerlijke gegeten, mooie wijn gedronken.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Een mooi stukje Parijs, gewoon in Nederland.\n\nBistro ‘Le petit chef’ in Rijswijk. Heerlijke gegeten, mooie wijn gedronken.\n\n<img src=\"uploads/2023/bbd96ae61d.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-10-19T22:01:33+02:00",
+				"url": "https://schoonens.social/2023/10/19/een-mooi-stukje.html"
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/10/18/herfst.html",
+				
+				"content_html": "<p>💚 Herfst</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "💚 Herfst\n\n<img src=\"uploads/2023/img-0025.jpeg\" width=\"600\" height=\"450\" alt=\"Paddenstoelen in de groene berm.\">\n",
+				"date_published": "2023-10-18T14:57:32+02:00",
+				"url": "https://schoonens.social/2023/10/18/herfst.html"
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/10/15/een-heerlijk-herfstbos.html",
+				
+				"content_html": "<p>Een heerlijk herfstbos waar het vanmiddag heel rustig was vanwege de vele regenbuien.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Een heerlijk herfstbos waar het vanmiddag heel rustig was vanwege de vele regenbuien.\n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/05416db939.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/7053d62e27.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-10-15T20:09:41+02:00",
+				"url": "https://schoonens.social/2023/10/15/een-heerlijk-herfstbos.html"
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/10/15/vanochtend-minuten-duurloop.html",
+				
+				"content_html": "<p>Vanochtend 45 minuten duurloop gedaan. Vertrokken tussen de buien door en met zonnestralen in de rug. Vervolgens thuis komen als een verzopen kat. Nat regenen tijdens het sporten, er zijn weinig dingen fijner dan dat.</p>\n",
+				"content_text": "Vanochtend 45 minuten duurloop gedaan. Vertrokken tussen de buien door en met zonnestralen in de rug. Vervolgens thuis komen als een verzopen kat. Nat regenen tijdens het sporten, er zijn weinig dingen fijner dan dat.\n",
+				"date_published": "2023-10-15T12:34:25+02:00",
+				"url": "https://schoonens.social/2023/10/15/vanochtend-minuten-duurloop.html"
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/10/14/ik-heb-zojuist.html",
+				
+				"content_html": "<p>Ik heb zojuist het boek &lsquo;<a href=\"https://www.bol.com/nl/nl/f/de-spion-en-de-verrader/9200000114704841/\">De spion en de verrader</a>&rsquo; van Ben Macintyre uitgelezen. Wat een ongekend spannend boek dat leest als een James Bond verhaal met het verschil dat dit werkelijk echt is gebeurd. Wanneer je van crime, geschiedenis en thrillers houdt is dit boek de meer dan de moeite waard om te lezen.</p>\n",
+				"content_text": "Ik heb zojuist het boek '[De spion en de verrader](https://www.bol.com/nl/nl/f/de-spion-en-de-verrader/9200000114704841/)' van Ben Macintyre uitgelezen. Wat een ongekend spannend boek dat leest als een James Bond verhaal met het verschil dat dit werkelijk echt is gebeurd. Wanneer je van crime, geschiedenis en thrillers houdt is dit boek de meer dan de moeite waard om te lezen.\n",
+				"date_published": "2023-10-14T13:50:55+02:00",
+				"url": "https://schoonens.social/2023/10/14/ik-heb-zojuist.html"
+			},
+			{
 				"id": "http://camielschoonens.micro.blog/2023/10/13/van-een-iphone.html",
 				
 				"content_html": "<p>Van een iPhone Pro Max terug naar een iPhone Pro. Wat een verademing qua apparaat grote. Dit had ik echt veel eerder moeten doen.</p>\n",

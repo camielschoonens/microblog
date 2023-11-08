@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://camielschoonens.micro.blog/2023/11/08/default-apps.html",
+				"title": "Default Apps",
+				"content_html": "<p>My list of default apps based on the categorization of <a href=\"https://devondundee.com/blog/default-apps\">Devon Dundee</a>.</p>\n<p>I keep track of a similar list of personal favorites including apps <a href=\"https://schoonens.blog/favorieten/#Apps\">here</a>. The post is in Dutch though. The original idea of building this list is coming from the <a href=\"https://listen.hemisphericviews.com/097\">Hemispheric Views Podcast</a>.</p>\n<ul>\n<li>Mail Client: Outlook</li>\n<li>Mail Server: Office365</li>\n<li>Notes: Agenda</li>\n<li>To-Do: Things</li>\n<li>iPhone Photo Shooting: Camera</li>\n<li>Photo Management: Adobe Lightroom and Photos</li>\n<li>Calendar: Fantastical Calendar</li>\n<li>Cloud File Storage: iCloud Drive</li>\n<li>RSS: Reeder</li>\n<li>Contacts: Apple Contacts on iOS and CardHop on MacOS</li>\n<li>Browser: Safari</li>\n<li>Chat: Messages and WhatsApp</li>\n<li>Bookmarks: <a href=\"https://bookmark.camiel.co/login/?next=/bookmarks\">Linkding</a></li>\n<li>RSS: Reeder with <a href=\"https://rss.camiel.co/\">FreshRSS</a></li>\n<li>Word Processing: Word</li>\n<li>Spreadsheets: Excel</li>\n<li>Presentations: PowerPoint</li>\n<li>Shopping Lists: Things</li>\n<li>Budgeting &amp; Personal Finance: Banktivity</li>\n<li>News: Newspaper, <a href=\"https://nrc.nl\">NRC</a>, <a href=\"https://nos.nl\">NOS</a> and <a href=\"https://tweakers.net\">Tweakers.net</a></li>\n<li>Music: Apple Music</li>\n<li>Podcasts: <a href=\"https://pocketcasts.com/\">Pocket Casts</a></li>\n<li>Password Management: 1Password</li>\n</ul>\n",
+				"content_text": "My list of default apps based on the categorization of [Devon Dundee](https://devondundee.com/blog/default-apps). \r\n\r\nI keep track of a similar list of personal favorites including apps [here](https://schoonens.blog/favorieten/#Apps). The post is in Dutch though. The original idea of building this list is coming from the [Hemispheric Views Podcast](https://listen.hemisphericviews.com/097).\r\n\r\n- Mail Client: Outlook\r\n- Mail Server: Office365\r\n- Notes: Agenda\r\n- To-Do: Things\r\n- iPhone Photo Shooting: Camera\r\n- Photo Management: Adobe Lightroom and Photos\r\n- Calendar: Fantastical Calendar\r\n- Cloud File Storage: iCloud Drive\r\n- RSS: Reeder\r\n- Contacts: Apple Contacts on iOS and CardHop on MacOS\r\n- Browser: Safari\r\n- Chat: Messages and WhatsApp\r\n- Bookmarks: [Linkding](https://bookmark.camiel.co/login/?next=/bookmarks)\r\n- RSS: Reeder with [FreshRSS](https://rss.camiel.co/)\r\n- Word Processing: Word\r\n- Spreadsheets: Excel\r\n- Presentations: PowerPoint\r\n- Shopping Lists: Things\r\n- Budgeting & Personal Finance: Banktivity\r\n- News: Newspaper, [NRC](https://nrc.nl), [NOS](https://nos.nl) and [Tweakers.net](https://tweakers.net)\r\n- Music: Apple Music\r\n- Podcasts: [Pocket Casts](https://pocketcasts.com/)\r\n- Password Management: 1Password\n",
+				"date_published": "2023-11-08T18:47:07+02:00",
+				"url": "https://schoonens.social/2023/11/08/default-apps.html"
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/10/22/gisterenavond-begonnen-aan.html",
+				
+				"content_html": "<p>Gisterenavond begonnen aan het nieuwe seizoen van Lupin. Net als bij deel 1 en 2 kijken we met het hele gezin.</p>\n<p>Met opgroeiende pubers wordt deze tijd steeds belangrijker. Ik realiseer mij maar al te goed dat langste tijd thuis met ze inmiddels voorbij is.</p>\n",
+				"content_text": "Gisterenavond begonnen aan het nieuwe seizoen van Lupin. Net als bij deel 1 en 2 kijken we met het hele gezin.\n\nMet opgroeiende pubers wordt deze tijd steeds belangrijker. Ik realiseer mij maar al te goed dat langste tijd thuis met ze inmiddels voorbij is.\n",
+				"date_published": "2023-10-22T08:27:51+02:00",
+				"url": "https://schoonens.social/2023/10/22/gisterenavond-begonnen-aan.html"
+			},
+			{
 				"id": "http://camielschoonens.micro.blog/2023/10/19/een-mooi-stukje.html",
 				
 				"content_html": "<p>Een mooi stukje Parijs, gewoon in Nederland.</p>\n<p>Bistro ‘Le petit chef’ in Rijswijk. Heerlijke gegeten, mooie wijn gedronken.</p>\n<!-- raw HTML omitted -->\n",

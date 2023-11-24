@@ -7,10 +7,26 @@
 	"items": [
 		
 			{
+				"id": "http://camielschoonens.micro.blog/2023/11/24/getting-myself-a.html",
+				
+				"content_html": "<p>Getting myself a <a href=\"https://www.amazon.nl/rOtring-600-1904443-Vulpotlood-Zwart/dp/B00AZWYUA4/\">Rotring 600 pencil</a> in preparation of my new job. I simply love taking meeting notes with a pencil and my previous ones (non Rotring) have all given up on me.</p>\n",
+				"content_text": "Getting myself a [Rotring 600 pencil](https://www.amazon.nl/rOtring-600-1904443-Vulpotlood-Zwart/dp/B00AZWYUA4/) in preparation of my new job. I simply love taking meeting notes with a pencil and my previous ones (non Rotring) have all given up on me.\n",
+				"date_published": "2023-11-24T15:43:53+01:00",
+				"url": "https://schoonens.social/2023/11/24/getting-myself-a.html"
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/11/22/listening-to-a.html",
+				
+				"content_html": "<p>Listening to a friends &lsquo;radio station&rsquo; in Apple Music is such a valuable feature to me. It gives me the opportunity to bring my friends abroad very close by as there is such a personal thing to ones music taste.</p>\n",
+				"content_text": "Listening to a friends 'radio station' in Apple Music is such a valuable feature to me. It gives me the opportunity to bring my friends abroad very close by as there is such a personal thing to ones music taste. \n",
+				"date_published": "2023-11-22T16:34:27+01:00",
+				"url": "https://schoonens.social/2023/11/22/listening-to-a.html"
+			},
+			{
 				"id": "http://camielschoonens.micro.blog/2023/11/19/started-implementing-a.html",
 				
-				"content_html": "<p>Started implementing a draft version of the <a href=\"https://johnnydecimal.com\">Johnny.Decimal</a> system today for my private file structure. This is a lovely task to lose yourself in on a Sunday afternoon and I&rsquo;m for sure enjoying this a structuring of my files a lot.</p>\n<p>For now my drafted categories in the <a href=\"https://johnnydecimal.com/10-19-concepts/13-multiple-projects/13.02-deep-dive/\">Home Domain</a> are:</p>\n<ul>\n<li>00-09 System</li>\n<li>10-19 Finance &amp; Insurance</li>\n<li>20-29 Sports &amp; Leisure</li>\n<li>30-39 Household</li>\n</ul>\n<p>If your unfamiliar with the <a href=\"https://johnnydecimal.com\">Johnny.Decimal system</a> but do like structure and for instance the <a href=\"https://en.wikipedia.org/wiki/MECE_principle\">MECE principle</a> your should definitely give this a try.</p>\n",
-				"content_text": "Started implementing a draft version of the [Johnny.Decimal](https://johnnydecimal.com) system today for my private file structure. This is a lovely task to lose yourself in on a Sunday afternoon and I'm for sure enjoying this a structuring of my files a lot.\n\nFor now my drafted categories in the [Home Domain](https://johnnydecimal.com/10-19-concepts/13-multiple-projects/13.02-deep-dive/) are:\n\n- 00-09 System\n- 10-19 Finance & Insurance\n- 20-29 Sports & Leisure\n- 30-39 Household\n\nIf your unfamiliar with the [Johnny.Decimal system](https://johnnydecimal.com) but do like structure and for instance the [MECE principle](https://en.wikipedia.org/wiki/MECE_principle) your should definitely give this a try.\n",
+				"content_html": "<p>Started implementing a draft version of the <a href=\"https://johnnydecimal.com\">Johnny.Decimal</a> system today for my private file structure. This is a lovely task to lose yourself in on a Sunday afternoon and I&rsquo;m for sure enjoying this a structuring of my files a lot.</p>\n<p>For now my drafted categories in the <a href=\"https://johnnydecimal.com/10-19-concepts/13-multiple-projects/13.02-deep-dive/\">Home Domain</a> are:</p>\n<ul>\n<li>00-09 System</li>\n<li>10-19 Finance &amp; Insurance</li>\n<li>20-29 Sports &amp; Leisure</li>\n<li>30-39 Household</li>\n<li>40-49 Work</li>\n</ul>\n<p>If your unfamiliar with the <a href=\"https://johnnydecimal.com\">Johnny.Decimal system</a> but do like structure and for instance the <a href=\"https://en.wikipedia.org/wiki/MECE_principle\">MECE principle</a> your should definitely give this a try.</p>\n<h5 id=\"updates\">Updates</h5>\n<ul>\n<li>2023-11-21 I&rsquo;ve added a &lsquo;40-49 Work&rsquo; related folder. Not for files that belong to the <a href=\"https://johnnydecimal.com/10-19-concepts/13-multiple-projects/13.02-deep-dive/\">Work Domain</a> but for files that are work related and deserve a storage in my home domain. E.g. contracts, signed NDA&rsquo;s and monthly paychecks.</li>\n</ul>\n",
+				"content_text": "Started implementing a draft version of the [Johnny.Decimal](https://johnnydecimal.com) system today for my private file structure. This is a lovely task to lose yourself in on a Sunday afternoon and I'm for sure enjoying this a structuring of my files a lot.\n\nFor now my drafted categories in the [Home Domain](https://johnnydecimal.com/10-19-concepts/13-multiple-projects/13.02-deep-dive/) are:\n\n- 00-09 System\n- 10-19 Finance & Insurance\n- 20-29 Sports & Leisure\n- 30-39 Household\n- 40-49 Work\n\nIf your unfamiliar with the [Johnny.Decimal system](https://johnnydecimal.com) but do like structure and for instance the [MECE principle](https://en.wikipedia.org/wiki/MECE_principle) your should definitely give this a try.\n\n##### Updates\n- 2023-11-21 I've added a '40-49 Work' related folder. Not for files that belong to the [Work Domain](https://johnnydecimal.com/10-19-concepts/13-multiple-projects/13.02-deep-dive/) but for files that are work related and deserve a storage in my home domain. E.g. contracts, signed NDA's and monthly paychecks.\n",
 				"date_published": "2023-11-19T15:54:16+01:00",
 				"url": "https://schoonens.social/2023/11/19/started-implementing-a.html"
 			},
@@ -69,7 +85,7 @@
 				"id": "http://camielschoonens.micro.blog/2023/11/14/a-good-friend.html",
 				
 				"content_html": "<p>A good friend of mine with a 3D printer printed <a href=\"https://makerworld.com/en/models/35856#profileId-33533\">this</a> Apple &ldquo;Hello&rdquo; logo that is present in recent versions of macOS screensavers and Apple keynotes.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A good friend of mine with a 3D printer printed [this](https://makerworld.com/en/models/35856#profileId-33533) Apple \"Hello\" logo that is present in recent versions of macOS screensavers and Apple keynotes.\n\n<img src=\"https://cdn.uploads.micro.blog/109793/2023/img-0080.jpeg\" width=\"600\" height=\"450\" alt=\"Apple Hello logo positioned on a desk below a monitor\">\n",
+				"content_text": "A good friend of mine with a 3D printer printed [this](https://makerworld.com/en/models/35856#profileId-33533) Apple \"Hello\" logo that is present in recent versions of macOS screensavers and Apple keynotes.\n\n<img src=\"uploads/2023/img-0080.jpeg\" alt=\"Apple Hello logo positioned on a desk below a monitor\">\n",
 				"date_published": "2023-11-14T15:52:06+01:00",
 				"url": "https://schoonens.social/2023/11/14/a-good-friend.html"
 			},

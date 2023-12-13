@@ -7,13 +7,67 @@
 	"items": [
 		
 			{
+				"id": "http://camielschoonens.micro.blog/2023/12/13/i-started-preparing.html",
+				
+				"content_html": "<p>I started preparing for <a href=\"https://camielschoonens.micro.blog/2023/11/13/im-starting-a.html\">my new job</a> with the help of the book &lsquo;<a href=\"https://micro.blog/books/9781422191392\">The first 90 days</a>&rsquo;. I used this same book a couple of years ago and it&rsquo;s still full of post-it notes from that time. It&rsquo;s quite fun reflecting back on those notes today.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I started preparing for [my new job](https://camielschoonens.micro.blog/2023/11/13/im-starting-a.html) with the help of the book '[The first 90 days](https://micro.blog/books/9781422191392)'. I used this same book a couple of years ago and it's still full of post-it notes from that time. It's quite fun reflecting back on those notes today.\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://schoonens.social/uploads/2023/img-0121.jpeg\" alt=\"\" title=\"IMG_0121.jpeg\" border=\"0\" width=\"5712\" height=\"3808\" />\n",
+				"date_published": "2023-12-13T12:09:50+01:00",
+				"url": "https://schoonens.social/2023/12/13/i-started-preparing.html",
+				"tags": ["Status"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/12/12/i-had-some.html",
+				
+				"content_html": "<p>I had some issues with ActivityPub accounts due to a domain hosting switch. All should be resolved now, sorry for the inconvenience for those of you following me. All my accounts should now be consolidated at <a href=\"https://micro.blog/camiel\">camiel@schoonens.social</a></p>\n",
+				"content_text": "I had some issues with ActivityPub accounts due to a domain hosting switch. All should be resolved now, sorry for the inconvenience for those of you following me. All my accounts should now be consolidated at [camiel@schoonens.social](https://micro.blog/camiel)\n",
+				"date_published": "2023-12-12T19:36:00+01:00",
+				"url": "https://schoonens.social/2023/12/12/i-had-some.html",
+				"tags": ["Status"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/12/12/aanstaande-donderdag-ga.html",
+				
+				"content_html": "<p>Aanstaande donderdag ga ik voor de derde keer naar mijn nieuwe werkgever. Dit keer om mijn laptop op te halen en om afspraken te maken voor aankomende reizen naar Engeland, Spanje en Amerika.</p>\n<p>Januari wordt een drukke maand na een periode van rust en tijd voor familie en vrienden. Ik heb wel heel veel zin om aan de slag te gaan.</p>\n",
+				"content_text": "Aanstaande donderdag ga ik voor de derde keer naar mijn nieuwe werkgever. Dit keer om mijn laptop op te halen en om afspraken te maken voor aankomende reizen naar Engeland, Spanje en Amerika.\n\nJanuari wordt een drukke maand na een periode van rust en tijd voor familie en vrienden. Ik heb wel heel veel zin om aan de slag te gaan.\n",
+				"date_published": "2023-12-12T18:50:32+01:00",
+				"url": "https://schoonens.social/2023/12/12/aanstaande-donderdag-ga.html",
+				"tags": ["Nederlands","Status"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/12/12/finished-reading-nirwana.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789403128658\">Nirwana</a> by Tommy Wieringa 📚</p>\n<p>Ik las zojuist Nirwana, het laatste boek van Tommy Wieringa uit. Wauw, wat een boek.</p>\n<p>Ik lees graag boeken van Tommy Wieringa en beschouw ‘Joe Speedboat’ als één van mijn favoriete boeken. Nirwana komt daar zeker bij, wat een verhaal over een indringend zware familiegeschiedenis waaraan werkelijk iedereen in die familie onder gebukt gaat.</p>\n<p>Oordeel: ⭐️⭐️⭐️⭐️</p>\n",
+				"content_text": "Finished reading: [Nirwana](https://micro.blog/books/9789403128658) by Tommy Wieringa 📚\n\nIk las zojuist Nirwana, het laatste boek van Tommy Wieringa uit. Wauw, wat een boek. \n\nIk lees graag boeken van Tommy Wieringa en beschouw ‘Joe Speedboat’ als één van mijn favoriete boeken. Nirwana komt daar zeker bij, wat een verhaal over een indringend zware familiegeschiedenis waaraan werkelijk iedereen in die familie onder gebukt gaat.\n\nOordeel: ⭐️⭐️⭐️⭐️\n",
+				"date_published": "2023-12-12T15:09:53+01:00",
+				"url": "https://schoonens.social/2023/12/12/finished-reading-nirwana.html",
+				"tags": ["Nederlands"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/12/11/uploaded-some-of.html",
+				
+				"content_html": "<p><del>Uploaded some of my favorite <a href=\"https://schoonens.social/photos/\">photos</a> last night. Feel free to have a look around <a href=\"https://schoonens.social/categories/photography/\">here</a>.</del></p>\n<p>My domain name is being moved as I type this, as a result my dns entries aren&rsquo;t propagated correctly yet. The above links therefore don&rsquo;t work.</p>\n",
+				"content_text": "~~Uploaded some of my favorite [photos](https://schoonens.social/photos/) last night. Feel free to have a look around [here](https://schoonens.social/categories/photography/).~~\n\nMy domain name is being moved as I type this, as a result my dns entries aren't propagated correctly yet. The above links therefore don't work.\n",
+				"date_published": "2023-12-11T08:32:44+01:00",
+				"url": "https://schoonens.social/2023/12/11/uploaded-some-of.html",
+				"tags": ["Status"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/12/10/vanochtend-een-minuten.html",
+				
+				"content_html": "<p>🏃🏻‍♂️ Vanochtend een 75 minuten duurloop afgerond met een totale afstand van 13km. Ik ben tevreden met het verschil tussen mijn eerste en tweede &lsquo;split&rsquo;, de tweede was sneller ondanks de zware wind tegen.</p>\n",
+				"content_text": "🏃🏻‍♂️ Vanochtend een 75 minuten duurloop afgerond met een totale afstand van 13km. Ik ben tevreden met het verschil tussen mijn eerste en tweede 'split', de tweede was sneller ondanks de zware wind tegen.\n",
+				"date_published": "2023-12-10T14:55:43+01:00",
+				"url": "https://schoonens.social/2023/12/10/vanochtend-een-minuten.html",
+				"tags": ["Nederlands","Running Log"]
+			},
+			{
 				"id": "http://camielschoonens.micro.blog/2023/12/08/vanochtend-een-pittige.html",
 				
 				"content_html": "<p>🏃🏻‍♂️ Vanochtend een pittige looptraining van 40 minuten afgerond met daarin 20x30 seconden lopen op 1500 meter tempo. Tussen elke interval door 60 seconden actief herstel. Mijn laatste twee intervallen waren de beste twee met 126 en 127 meter afstand in 30 seconden.</p>\n",
 				"content_text": "🏃🏻‍♂️ Vanochtend een pittige looptraining van 40 minuten afgerond met daarin 20x30 seconden lopen op 1500 meter tempo. Tussen elke interval door 60 seconden actief herstel. Mijn laatste twee intervallen waren de beste twee met 126 en 127 meter afstand in 30 seconden.\n",
 				"date_published": "2023-12-08T10:55:21+01:00",
 				"url": "https://schoonens.social/2023/12/08/vanochtend-een-pittige.html",
-				"tags": ["Nederlands","Status"]
+				"tags": ["Nederlands","Running Log"]
 			},
 			{
 				"id": "http://camielschoonens.micro.blog/2023/12/08/it-was-already.html",
@@ -28,7 +82,7 @@
 				"id": "http://camielschoonens.micro.blog/2023/12/04/i-had-a.html",
 				
 				"content_html": "<p>I had a great morning in the <a href=\"https://www.rijksmuseum.nl/en\">&lsquo;Rijksmuseum&rsquo;</a> where it was relatively quiet today. There is photography exhibition by <a href=\"https://www.rijksmuseum.nl/en/whats-on/exhibitions/mounir-raji\">Mounir Raji</a> that you shouldn&rsquo;t skip while you are there.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I had a great morning in the ['Rijksmuseum'](https://www.rijksmuseum.nl/en) where it was relatively quiet today. There is photography exhibition by [Mounir Raji](https://www.rijksmuseum.nl/en/whats-on/exhibitions/mounir-raji) that you shouldn't skip while you are there.\n\n<img src=\"uploads/2023/231204-et2a0133.jpg\" alt=\"A blue wall showing 3 photographs from photographer Mounir Raji. The photographs are from a series called Tourism.\">\n",
+				"content_text": "I had a great morning in the ['Rijksmuseum'](https://www.rijksmuseum.nl/en) where it was relatively quiet today. There is photography exhibition by [Mounir Raji](https://www.rijksmuseum.nl/en/whats-on/exhibitions/mounir-raji) that you shouldn't skip while you are there.\n\n<img src=\"https://cdn.uploads.micro.blog/109793/2023/3afc48e044.jpg\" alt=\"A blue wall showing 3 photographs from photographer Mounir Raji. The photographs are from a series called Tourism.\">\n",
 				"date_published": "2023-12-04T15:30:16+01:00",
 				"url": "https://schoonens.social/2023/12/04/i-had-a.html",
 				"tags": ["Photography"]
@@ -50,15 +104,6 @@
 				"date_published": "2023-12-03T19:56:49+01:00",
 				"url": "https://schoonens.social/2023/12/03/played-around-with.html",
 				"tags": ["Status"]
-			},
-			{
-				"id": "http://camielschoonens.micro.blog/2023/12/03/deze-boeken-las.html",
-				"title": "Deze boeken las ik in 2023",
-				"content_html": "<p>Ieder jaar neem ik mij voor om meer te lezen dan het jaar daarvoor. Ook dit jaar is dat weer gelukt. Hierbij een een overzicht van de boeken die ik las gedurende 2023. Een jaar met veel boeken in het thema crime doordat ik de volledige series (tot nu toe) van &lsquo;Munch &amp; Krüger&rsquo; en &lsquo;Robert Hunter&rsquo; las.</p>\n<p>Uit de Munch &amp; Krüger serie van Samuel Bjørk las ik:</p>\n<ul>\n<li><a href=\"https://schoonens.blog/boekenplank/ik-reis-alleen-door-samuel-bjork/\">Ik reis alleen</a> ⭐⭐⭐⭐</li>\n<li><a href=\"https://schoonens.blog/boekenplank/de-doodsvogel-door-samuel-bjork/\">De doodsvogel</a> ⭐⭐⭐⭐⭐</li>\n<li><a href=\"https://schoonens.blog/boekenplank/de-jongen-in-de-sneeuw-door-samuel-bjork/\">De jongen in de sneeuw</a> ⭐⭐⭐</li>\n<li><a href=\"https://schoonens.blog/boekenplank/sneeuwwit-door-samuel-bjork/\">Sneeuwwit</a> ⭐⭐⭐⭐</li>\n<li><a href=\"https://schoonens.blog/boekenplank/de-terugkeer-van-mia-door-samuel-bjork/\">De terugkeer van Mia</a> ⭐⭐⭐⭐</li>\n</ul>\n<p>Uit de Robert Hunter serie van Chris Carter las ik:</p>\n<ul>\n<li><a href=\"https://schoonens.blog/boekenplank/handtekening-van-het-kwaad-door-chris-carter/\">Handtekening van het kwaad</a> ⭐⭐⭐⭐</li>\n<li><a href=\"https://schoonens.blog/boekenplank/gezicht-van-het-kwaad-door-chris-carter/\">Gezicht van het kwaad</a> ⭐⭐⭐</li>\n<li><a href=\"https://schoonens.blog/boekenplank/jager-in-de-nacht-door-chris-carter/\">Jager in de nacht</a> ⭐⭐⭐⭐</li>\n<li><a href=\"https://schoonens.blog/boekenplank/de-beeldhouwer-door-chris-carter/\">De beeldhouwer</a> ⭐⭐⭐⭐</li>\n</ul>\n<p>Uit de Harry Hole serie van Jo Nesbø:</p>\n<ul>\n<li><a href=\"https://schoonens.blog/boekenplank/harry-hole-bloedmaan-door-jo-nesbo/\">Bloedmaan</a> ⭐⭐⭐⭐⭐</li>\n</ul>\n<p>Diversen:</p>\n<ul>\n<li><a href=\"https://schoonens.blog/boekenplank/help-ik-heb-een-puber-door-kluun/\">Help, ik heb een puber!</a> ⭐⭐</li>\n<li><a href=\"https://schoonens.blog/boekenplank/de-overlevenden-door-alex-schulman/\">De overlevenden</a> ⭐⭐⭐⭐</li>\n<li><a href=\"https://schoonens.blog/boekenplank/de-hulp-door-freida-mcfadden/\">De hulp</a> ⭐⭐</li>\n<li><a href=\"https://schoonens.blog/boekenplank/de-lessen-van-meneer-picquier-door-marc-roger/\">De lessen van meneer Picquier</a> ⭐⭐⭐⭐</li>\n<li><a href=\"https://schoonens.blog/boekenplank/het-koninklijk-huis-door-herman-koch/\">Het Koninklijk Huis</a> ⭐⭐⭐</li>\n<li><a href=\"https://schoonens.blog/boekenplank/de-spion-en-de-verrader-door-ben-macintyre/\">De spion en de verrader</a> ⭐️⭐️⭐️⭐️</li>\n<li>De zeven vinkjes ⭐⭐⭐⭐</li>\n</ul>",
-				"content_text": "Ieder jaar neem ik mij voor om meer te lezen dan het jaar daarvoor. Ook dit jaar is dat weer gelukt. Hierbij een een overzicht van de boeken die ik las gedurende 2023. Een jaar met veel boeken in het thema crime doordat ik de volledige series (tot nu toe) van 'Munch & Krüger' en 'Robert Hunter' las.\n\n<!--more-->\n\nUit de Munch & Krüger serie van Samuel Bjørk las ik:\n- [Ik reis alleen](https://schoonens.blog/boekenplank/ik-reis-alleen-door-samuel-bjork/) ⭐⭐⭐⭐\n- [De doodsvogel](https://schoonens.blog/boekenplank/de-doodsvogel-door-samuel-bjork/) ⭐⭐⭐⭐⭐\n- [De jongen in de sneeuw](https://schoonens.blog/boekenplank/de-jongen-in-de-sneeuw-door-samuel-bjork/) ⭐⭐⭐\n- [Sneeuwwit](https://schoonens.blog/boekenplank/sneeuwwit-door-samuel-bjork/) ⭐⭐⭐⭐\n- [De terugkeer van Mia](https://schoonens.blog/boekenplank/de-terugkeer-van-mia-door-samuel-bjork/) ⭐⭐⭐⭐\n\nUit de Robert Hunter serie van Chris Carter las ik:\n- [Handtekening van het kwaad](https://schoonens.blog/boekenplank/handtekening-van-het-kwaad-door-chris-carter/) ⭐⭐⭐⭐\n- [Gezicht van het kwaad](https://schoonens.blog/boekenplank/gezicht-van-het-kwaad-door-chris-carter/) ⭐⭐⭐\n- [Jager in de nacht](https://schoonens.blog/boekenplank/jager-in-de-nacht-door-chris-carter/) ⭐⭐⭐⭐\n- [De beeldhouwer](https://schoonens.blog/boekenplank/de-beeldhouwer-door-chris-carter/) ⭐⭐⭐⭐\n\nUit de Harry Hole serie van Jo Nesbø:\n- [Bloedmaan](https://schoonens.blog/boekenplank/harry-hole-bloedmaan-door-jo-nesbo/) ⭐⭐⭐⭐⭐\n\nDiversen:\n- [Help, ik heb een puber!](https://schoonens.blog/boekenplank/help-ik-heb-een-puber-door-kluun/) ⭐⭐\n- [De overlevenden](https://schoonens.blog/boekenplank/de-overlevenden-door-alex-schulman/) ⭐⭐⭐⭐\n- [De hulp](https://schoonens.blog/boekenplank/de-hulp-door-freida-mcfadden/) ⭐⭐\n- [De lessen van meneer Picquier](https://schoonens.blog/boekenplank/de-lessen-van-meneer-picquier-door-marc-roger/) ⭐⭐⭐⭐\n- [Het Koninklijk Huis](https://schoonens.blog/boekenplank/het-koninklijk-huis-door-herman-koch/) ⭐⭐⭐\n- [De spion en de verrader](https://schoonens.blog/boekenplank/de-spion-en-de-verrader-door-ben-macintyre/) ⭐️⭐️⭐️⭐️\n- De zeven vinkjes ⭐⭐⭐⭐\n",
-				"date_published": "2023-12-03T14:45:02+01:00",
-				"url": "https://schoonens.social/2023/12/03/deze-boeken-las.html",
-				"tags": ["Nederlands"]
 			},
 			{
 				"id": "http://camielschoonens.micro.blog/2023/12/01/top-inzending-voor.html",
@@ -172,7 +217,7 @@
 				"id": "http://camielschoonens.micro.blog/2023/11/14/a-good-friend.html",
 				
 				"content_html": "<p>A good friend of mine with a 3D printer printed <a href=\"https://makerworld.com/en/models/35856#profileId-33533\">this</a> Apple &ldquo;Hello&rdquo; logo that is present in recent versions of macOS screensavers and Apple keynotes.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A good friend of mine with a 3D printer printed [this](https://makerworld.com/en/models/35856#profileId-33533) Apple \"Hello\" logo that is present in recent versions of macOS screensavers and Apple keynotes.\n\n<img src=\"https://cdn.uploads.micro.blog/109793/2023/img-0080.jpeg\" alt=\"Apple Hello logo positioned on a desk below a monitor\">\n",
+				"content_text": "A good friend of mine with a 3D printer printed [this](https://makerworld.com/en/models/35856#profileId-33533) Apple \"Hello\" logo that is present in recent versions of macOS screensavers and Apple keynotes.\n\n<img src=\"https://cdn.uploads.micro.blog/109793/2023/8513e37839.jpeg\" alt=\"3D Printed 'Hello'\">\n",
 				"date_published": "2023-11-14T15:52:06+01:00",
 				"url": "https://schoonens.social/2023/11/14/a-good-friend.html",
 				"tags": ["Apple"]
@@ -214,6 +259,132 @@
 				"tags": ["Product \u0026 Tech"]
 			},
 			{
+				"id": "http://camielschoonens.micro.blog/2023/09/24/imgjpg.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<!-- wp:image {\"id\":20448,\"sizeSlug\":\"full\",\"linkDestination\":\"media\"} -->\n<figure class=\"wp-block-image size-full\"><a href=\"https://camielschoonens.micro.blog/uploads/2023/30f1a545da.jpg\"><img src=\"uploads/2023/30f1a545da.jpg\" alt=\"\" class=\"wp-image-20448\"/></a></figure>\n<!-- /wp:image -->\n",
+				"date_published": "2023-09-24T14:30:21+01:00",
+				"url": "https://schoonens.social/2023/09/24/imgjpg.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/09/10/cajpg.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<!-- wp:image {\"id\":12571,\"sizeSlug\":\"full\",\"linkDestination\":\"media\"} -->\n<figure class=\"wp-block-image size-full\"><a href=\"https://camielschoonens.micro.blog/uploads/2023/3981159682.jpg\"><img src=\"https://camielschoonens.micro.blog/uploads/2023/3981159682.jpg\" alt=\"\" class=\"wp-image-12571\"/></a></figure>\n<!-- /wp:image -->\n",
+				"date_published": "2023-09-10T12:46:15+01:00",
+				"url": "https://schoonens.social/2023/09/10/cajpg.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/09/04/cajpg.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<!-- wp:image {\"id\":9771,\"sizeSlug\":\"full\",\"linkDestination\":\"media\"} -->\n<figure class=\"wp-block-image size-full\"><a href=\"https://camielschoonens.micro.blog/uploads/2023/5ccd982c0a.jpg\"><img src=\"https://camielschoonens.micro.blog/uploads/2023/5ccd982c0a.jpg\" alt=\"\" class=\"wp-image-9771\"/></a></figure>\n<!-- /wp:image -->\n",
+				"date_published": "2023-09-04T11:56:17+01:00",
+				"url": "https://schoonens.social/2023/09/04/cajpg.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/08/27/cajpg.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<!-- wp:image {\"id\":6745,\"sizeSlug\":\"full\",\"linkDestination\":\"media\"} -->\n<figure class=\"wp-block-image size-full\"><a href=\"https://cdn.uploads.micro.blog/109793/2023/37f41ee4ff.jpg\"><img src=\"https://cdn.uploads.micro.blog/109793/2023/37f41ee4ff.jpg\" alt=\"\" class=\"wp-image-6745\"/></a></figure>\n<!-- /wp:image -->\n",
+				"date_published": "2023-08-27T13:51:41+01:00",
+				"url": "https://schoonens.social/2023/08/27/cajpg.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/08/11/imgjpg.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<!-- wp:image {\"id\":2525,\"sizeSlug\":\"full\",\"linkDestination\":\"media\"} -->\n<figure class=\"wp-block-image size-full\"><a href=\"https://cdn.uploads.micro.blog/109793/2023/6a1fe880e6.jpg\"><img src=\"https://cdn.uploads.micro.blog/109793/2023/6a1fe880e6.jpg\" alt=\"\" class=\"wp-image-2525\"/></a></figure>\n<!-- /wp:image -->\n",
+				"date_published": "2023-08-11T19:54:00+01:00",
+				"url": "https://schoonens.social/2023/08/11/imgjpg.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/08/11/111600.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<!-- wp:image {\"id\":2531,\"sizeSlug\":\"full\",\"linkDestination\":\"media\"} -->\n<figure class=\"wp-block-image size-full\"><a href=\"https://cdn.uploads.micro.blog/109793/2023/4efc99973e.jpg\"><img src=\"https://cdn.uploads.micro.blog/109793/2023/4efc99973e.jpg\" alt=\"\" class=\"wp-image-2531\"/></a></figure>\n<!-- /wp:image -->\n",
+				"date_published": "2023-08-11T11:16:00+01:00",
+				"url": "https://schoonens.social/2023/08/11/111600.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/08/10/imgjpg.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<!-- wp:image {\"id\":2229,\"sizeSlug\":\"full\",\"linkDestination\":\"media\"} -->\n<figure class=\"wp-block-image size-full\"><a href=\"https://cdn.uploads.micro.blog/109793/2023/19ca7e11e4.jpg\"><img src=\"https://cdn.uploads.micro.blog/109793/2023/19ca7e11e4.jpg\" alt=\"\" class=\"wp-image-2229\"/></a></figure>\n<!-- /wp:image -->\n",
+				"date_published": "2023-08-10T16:48:29+01:00",
+				"url": "https://schoonens.social/2023/08/10/imgjpg.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/08/08/imgjpg.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<!-- wp:image {\"id\":1888,\"sizeSlug\":\"full\",\"linkDestination\":\"media\"} -->\n<figure class=\"wp-block-image size-full\"><a href=\"https://cdn.uploads.micro.blog/109793/2023/d27f928301.jpg\"><img src=\"https://cdn.uploads.micro.blog/109793/2023/d27f928301.jpg\" alt=\"\" class=\"wp-image-1888\"/></a></figure>\n<!-- /wp:image -->\n",
+				"date_published": "2023-08-08T15:16:23+01:00",
+				"url": "https://schoonens.social/2023/08/08/imgjpg.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/07/26/164400.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<!-- wp:image {\"id\":1001,\"sizeSlug\":\"full\",\"linkDestination\":\"media\"} -->\n<figure class=\"wp-block-image size-full\"><a href=\"https://cdn.uploads.micro.blog/109793/2023/84b0b6498f.jpg\"><img src=\"https://cdn.uploads.micro.blog/109793/2023/84b0b6498f.jpg\" alt=\"\" class=\"wp-image-1001\"/></a></figure>\n<!-- /wp:image -->\n",
+				"date_published": "2023-07-26T16:44:00+01:00",
+				"url": "https://schoonens.social/2023/07/26/164400.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/07/26/cajpg.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<!-- wp:image {\"id\":423,\"sizeSlug\":\"full\",\"linkDestination\":\"media\"} -->\n<figure class=\"wp-block-image size-full\"><a href=\"https://cdn.uploads.micro.blog/109793/2023/a13c9f3bfb.jpg\"><img src=\"https://cdn.uploads.micro.blog/109793/2023/a13c9f3bfb.jpg\" alt=\"\" class=\"wp-image-423\"/></a></figure>\n<!-- /wp:image -->\n",
+				"date_published": "2023-07-26T13:51:39+01:00",
+				"url": "https://schoonens.social/2023/07/26/cajpg.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/07/23/cajpg.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<!-- wp:image {\"id\":37,\"sizeSlug\":\"full\",\"linkDestination\":\"media\"} -->\n<figure class=\"wp-block-image size-full\"><a href=\"https://cdn.uploads.micro.blog/109793/2023/7dc07e3038.jpg\"><img src=\"https://cdn.uploads.micro.blog/109793/2023/7dc07e3038.jpg\" alt=\"\" class=\"wp-image-37\"/></a></figure>\n<!-- /wp:image -->\n",
+				"date_published": "2023-07-23T12:16:06+01:00",
+				"url": "https://schoonens.social/2023/07/23/cajpg.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/07/16/cajpg.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<!-- wp:image {\"id\":56,\"sizeSlug\":\"full\",\"linkDestination\":\"media\"} -->\n<figure class=\"wp-block-image size-full\"><a href=\"https://cdn.uploads.micro.blog/109793/2023/9188302fb1.jpg\"><img src=\"https://cdn.uploads.micro.blog/109793/2023/9188302fb1.jpg\" alt=\"\" class=\"wp-image-56\"/></a></figure>\n<!-- /wp:image -->\n",
+				"date_published": "2023-07-16T20:00:00+01:00",
+				"url": "https://schoonens.social/2023/07/16/cajpg.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/06/23/cajpg.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<!-- wp:gallery {\"linkTo\":\"none\"} -->\n<figure class=\"wp-block-gallery has-nested-images columns-default is-cropped\"><!-- wp:image {\"id\":563,\"sizeSlug\":\"full\",\"linkDestination\":\"media\"} -->\n<figure class=\"wp-block-image size-full\"><a href=\"https://cdn.uploads.micro.blog/109793/2023/2ba050db47.jpg\"><img src=\"https://cdn.uploads.micro.blog/109793/2023/2ba050db47.jpg\" alt=\"\" class=\"wp-image-563\"/></a></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":615,\"sizeSlug\":\"full\",\"linkDestination\":\"media\"} -->\n<figure class=\"wp-block-image size-full\"><a href=\"https://cdn.uploads.micro.blog/109793/2023/2867347372.jpg\"><img src=\"https://cdn.uploads.micro.blog/109793/2023/2867347372.jpg\" alt=\"\" class=\"wp-image-615\"/></a></figure>\n<!-- /wp:image -->\n\n<!-- wp:image {\"id\":616,\"sizeSlug\":\"full\",\"linkDestination\":\"media\"} -->\n<figure class=\"wp-block-image size-full\"><a href=\"https://cdn.uploads.micro.blog/109793/2023/82474446ea.jpg\"><img src=\"https://cdn.uploads.micro.blog/109793/2023/82474446ea.jpg\" alt=\"\" class=\"wp-image-616\"/></a></figure>\n<!-- /wp:image --></figure>\n<!-- /wp:gallery -->\n",
+				"date_published": "2023-06-23T21:20:00+01:00",
+				"url": "https://schoonens.social/2023/06/23/cajpg.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/06/04/cajpg.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<!-- wp:image {\"id\":560,\"sizeSlug\":\"full\",\"linkDestination\":\"media\",\"className\":\"\"} -->\n<figure class=\"wp-block-image size-full\"><a href=\"https://cdn.uploads.micro.blog/109793/2023/2668ef395d.jpg\"><img src=\"https://cdn.uploads.micro.blog/109793/2023/2668ef395d.jpg\" alt=\"\" class=\"wp-image-560\"/></a></figure>\n<!-- /wp:image -->\n",
+				"date_published": "2023-06-04T15:50:00+01:00",
+				"url": "https://schoonens.social/2023/06/04/cajpg.html",
+				"tags": ["Photography"]
+			},
+			{
 				"id": "http://camielschoonens.micro.blog/2023/05/20/adding-a-first.html",
 				
 				"content_html": "<p>Adding a first post here to get this blog started. I will soon be posting about stuff that I like and find worth sharing.</p>\n",
@@ -221,6 +392,60 @@
 				"date_published": "2023-05-20T20:08:13+01:00",
 				"url": "https://schoonens.social/2023/05/20/adding-a-first.html",
 				"tags": ["Status"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2023/05/13/cajpg.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<!-- wp:image {\"id\":1181,\"sizeSlug\":\"full\",\"linkDestination\":\"media\"} -->\n<figure class=\"wp-block-image size-full\"><a href=\"https://cdn.uploads.micro.blog/109793/2023/abc5d078d9.jpg\"><img src=\"https://cdn.uploads.micro.blog/109793/2023/abc5d078d9.jpg\" alt=\"\" class=\"wp-image-1181\"/></a></figure>\n<!-- /wp:image -->\n",
+				"date_published": "2023-05-13T16:35:00+01:00",
+				"url": "https://schoonens.social/2023/05/13/cajpg.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2020/08/01/websitejpg.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<!-- wp:image {\"id\":283,\"sizeSlug\":\"full\",\"linkDestination\":\"media\"} -->\n<figure class=\"wp-block-image size-full\"><a href=\"https://cdn.uploads.micro.blog/109793/2023/821f530e16.jpg\"><img src=\"https://cdn.uploads.micro.blog/109793/2023/821f530e16.jpg\" alt=\"\" class=\"wp-image-283\"/></a></figure>\n<!-- /wp:image -->\n",
+				"date_published": "2020-08-01T11:20:00+01:00",
+				"url": "https://schoonens.social/2020/08/01/websitejpg.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2019/12/20/cawebsitejpg.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<!-- wp:image {\"id\":280,\"sizeSlug\":\"full\",\"linkDestination\":\"media\"} -->\n<figure class=\"wp-block-image size-full\"><a href=\"https://schoonens.nl/wp-content/uploads/2023/01/20191220-0C2A5117-Website.jpg\"><img src=\"https://schoonens.nl/wp-content/uploads/2023/01/20191220-0C2A5117-Website.jpg\" alt=\"\" class=\"wp-image-280\"/></a></figure>\n<!-- /wp:image -->\n",
+				"date_published": "2019-12-20T12:19:00+01:00",
+				"url": "https://schoonens.social/2019/12/20/cawebsitejpg.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2019/08/09/websitejpg.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<!-- wp:image {\"id\":277,\"sizeSlug\":\"full\",\"linkDestination\":\"media\"} -->\n<figure class=\"wp-block-image size-full\"><a href=\"https://cdn.uploads.micro.blog/109793/2023/b11ff5ceb8.jpg\"><img src=\"https://cdn.uploads.micro.blog/109793/2023/b11ff5ceb8.jpg\" alt=\"\" class=\"wp-image-277\"/></a></figure>\n<!-- /wp:image -->\n",
+				"date_published": "2019-08-09T11:18:00+01:00",
+				"url": "https://schoonens.social/2019/08/09/websitejpg.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2019/08/06/websitejpg.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<!-- wp:image {\"id\":274,\"width\":1800,\"height\":1200,\"sizeSlug\":\"full\",\"linkDestination\":\"media\"} -->\n<figure class=\"wp-block-image size-full is-resized\"><a href=\"https://cdn.uploads.micro.blog/109793/2023/70d074dcc7.jpg\"><img src=\"https://cdn.uploads.micro.blog/109793/2023/70d074dcc7.jpg\" alt=\"\" class=\"wp-image-274\" width=\"1800\" height=\"1200\"/></a></figure>\n<!-- /wp:image -->\n",
+				"date_published": "2019-08-06T11:15:00+01:00",
+				"url": "https://schoonens.social/2019/08/06/websitejpg.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://camielschoonens.micro.blog/2012/02/09/imgwebsitejpg.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<!-- wp:image {\"id\":270,\"sizeSlug\":\"full\",\"linkDestination\":\"media\"} -->\n<figure class=\"wp-block-image size-full\"><a href=\"https://cdn.uploads.micro.blog/109793/2023/f2f8af1da2.jpg\"><img src=\"https://cdn.uploads.micro.blog/109793/2023/f2f8af1da2.jpg\" alt=\"\" class=\"wp-image-270\"/></a></figure>\n<!-- /wp:image -->\n",
+				"date_published": "2012-02-09T12:17:00+01:00",
+				"url": "https://schoonens.social/2012/02/09/imgwebsitejpg.html",
+				"tags": ["Photography"]
 			}
 	]
 }
